@@ -1,5 +1,8 @@
 # 09 Node.js Homework: Professional README Generator
 
+So this assignment in general wasn't too hard i just ran out of time, but there is a video link to what i have, I wasn't able to find how to style and i ddint get around to figuring out how to isntall thelicense badge, if i can i would like to try and finish this if possible, but all in all I know its not the best, but itsthe thought that counts right?
+
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
