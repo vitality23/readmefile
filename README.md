@@ -1,6 +1,10 @@
 # 09 Node.js Homework: Professional README Generator
 
-So this assignment in general wasn't too hard i just ran out of time, but there is a video link to what i have, I wasn't able to find how to style and i ddint get around to figuring out how to isntall thelicense badge, if i can i would like to try and finish this if possible, but all in all I know its not the best, but itsthe thought that counts right?
+So this assignment in general wasn't too hard i just ran out of time, I wasn't able to find how to style and i ddint get around to figuring out how to isntall thelicense badge, if i can i would like to try and finish this if possible, but all in all I know its not the best, but itsthe thought that counts right? I had issues just trying to get the read me file to appear properly. 
+here is the link to my video
+https://user-images.githubusercontent.com/76139561/119308888-743d0c80-bc22-11eb-94fb-db51c613d37f.mp4
+
+
 
 
 ## Your Task
