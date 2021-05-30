@@ -1,0 +1,19 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "So this assignment in general wasn't too hard i just ran out of time, but there is a video link to what i have, I wasn't able to find how to style and i ddint get around to figuring out how to isntall thelicense badge, if i can i would like to try and finish this if possible, but all in all I know its not the best, but itsthe thought that counts right?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitality23/readmefile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitality23/readmefile/issues"
+  },
+  "homepage": "https://github.com/vitality23/readmefile#readme"
+}

@@ -16,30 +16,30 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## Table Of Contents
-*[Title]{#Title}
-*[Description]{#Description}
-*[usage]{#usage}
-*[license]{#license}
-*[contributer]{#contributer}
-*[test]{#test}
-*[installation]{#installation}
+* [Title](#Title)
+* [Description](#Description)
+* [usage](#usage)
+* [license](#license)
+* [contributer](#contributer)
+* [test](#test)
+* [installation]{#installation}
 
-##Description
+## Description
 ${data.Description}
 
-##usage
+## usage
 ${data.usage}
 
-##license
+## license
 ${data.license}
 
-##contributer
+## contributer
 ${data.contributer}
 
-##test
+## test
 ${data.test}
 
-##installation
+## installation
 ${data.installation}
 
 github: [${data.userName}]
